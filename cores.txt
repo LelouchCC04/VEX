@@ -1,0 +1,31 @@
+Paleta de cores VEX
+
+
+tadabanriekoko@gmail.com
+Qual a paleta de cor da vex?
+
+A paleta de cores da VEX Robotics não é fixa e pode variar de acordo com o kit, competição ou equipe que está utilizando. No entanto, a empresa geralmente utiliza uma combinação de cores vivas e brilhantes, como vermelho, azul, amarelo e verde em seus produtos e materiais de marca.
+
+
+
+
+
+tadabanriekoko@gmail.com
+Da vex de league of legends
+
+Peço desculpas, interpretei mal sua pergunta anterior. A paleta de cores da Vex de League of Legends inclui principalmente tons de roxo e preto, com alguns detalhes em azul brilhante. Essas cores representam a personalidade e o estilo da personagem dentro do jogo, que é uma mistura de tecnologia futurista e elementos mágicos sombrios. Além disso, a aparência da Vex muda conforme sua barra de fúria aumenta, o que pode resultar em efeitos de cor diferentes em diferentes estágios da partida.
+
+
+
+
+
+tadabanriekoko@gmail.com
+Voce consegue me falar as exatas cores? Estou fazendo uma pagina web em html e css, sobre a vex 
+
+Claro, com base na aparência da personagem Vex em League of Legends, você pode usar as seguintes cores em sua página web:
+
+Roxo escuro: #37224C
+Roxo médio: #5E3F6B
+Roxo claro: #8D6E9E
+Azul brilhante: #00BFFF (ou outra tonalidade semelhante de azul que você preferir)
+Essas cores podem ser usadas para criar um esquema de cores coeso e consistente em toda a sua página web, ajudando a transmitir a personalidade da personagem Vex. Lembre-se de experimentar diferentes combinações e contrastes para encontrar a aparência ideal para o seu projeto.
