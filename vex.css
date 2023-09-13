@@ -1,5 +1,5 @@
 /*IMAGEM INICIAL*/
-
+/*
 #loading-screen {
   position: fixed;
   top: 0;
@@ -32,6 +32,7 @@
   margin-top:  -80%;
   margin-left: -42%;
 }
+*/
 
 body {
   background-color: #37224C;
@@ -92,6 +93,7 @@ h4 {
   max-width: 100%;
   max-height: 100%;
   border-radius: 15%;
+  margin-left: 30%;
 }
 
 #video_habilidade {
