@@ -1,2 +1,2 @@
 # VEX
-Site dos meus campeões do LOL
+Site da minha campeã do LOL
