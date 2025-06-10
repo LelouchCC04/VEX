@@ -1,0 +1,39 @@
+/*CSS DA GALERIA VEX*/
+img{
+  margin-bottom: 50px;
+}
+.galeria img {
+  border: 1px solid blueviolet;
+  padding: 10px;
+  display: grid;
+  
+}
+.galeria {
+  display: grid;
+  width: 500px;
+  height: 450px;
+
+}
+
+.imagem-galeria img {
+  
+  width: 0;
+  flex-grow: 1;
+  object-fit: cover;
+  opacity: .8;
+  transition: .5s ease-in-out;
+  
+  
+}
+
+.imagem-galeria img:hover{
+  cursor: crosshair;
+  width: 300px;
+  opacity: 1;
+  filter: contrast(120%);
+  
+}
+
+.imagem-galeria li{
+  list-style: none;
+}

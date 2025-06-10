@@ -12,7 +12,7 @@ var descricaoHabilidade = document.getElementById("descricao_habilidade");
 // Adiciona eventos de clique aos links das habilidades
 linkPass.addEventListener("click", function() {
   // Altera a origem do vídeo para o vídeo da habilidade Passiva
-  videoHabilidade.src = "vid_passiva.webm";
+  videoHabilidade.src = "./video/vid_passiva.webm";
 
   // Crie o parágrafo e defina o texto
   var paragrafo = document.createElement("p");
@@ -44,7 +44,7 @@ paragrafo.innerHTML = textoModificado;
 
 linkQ.addEventListener("click", function() {
   // Altera a origem do vídeo para o vídeo da habilidade Q
-  videoHabilidade.src = "vid_hab_q.webm";
+  videoHabilidade.src = "./video/vid_hab_q.webm";
 
   // Crie o parágrafo e defina o texto
   var paragrafo = document.createElement("p");
@@ -76,7 +76,7 @@ paragrafo.innerHTML = textoModificado;
 
 linkW.addEventListener("click", function() {
   // Altera a origem do vídeo para o vídeo da habilidade W
-  videoHabilidade.src = "vid_hab_w.webm";
+  videoHabilidade.src = "./video/vid_hab_w.webm";
 
   // Crie o parágrafo e defina o texto
   var paragrafo = document.createElement("p");
@@ -108,7 +108,7 @@ paragrafo.innerHTML = textoModificado;
 
 linkE.addEventListener("click", function() {
   // Altera a origem do vídeo para o vídeo da habilidade E
-  videoHabilidade.src = "vid_hab_e.webm";
+  videoHabilidade.src = "./video/vid_hab_e.webm";
 
   // Crie o parágrafo e defina o texto
   var paragrafo = document.createElement("p");
@@ -140,7 +140,7 @@ paragrafo.innerHTML = textoModificado;
 
 linkR.addEventListener("click", function() {
   // Altera a origem do vídeo para o vídeo da habilidade R
-  videoHabilidade.src = "vid_hab_r.webm";
+  videoHabilidade.src = "./video/vid_hab_r.webm";
 
   // Crie o parágrafo e defina o texto
   var paragrafo = document.createElement("p");
